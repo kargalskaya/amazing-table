@@ -1,0 +1,30 @@
+{
+  "name": "amazing-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kargalskaya/amazing-table.git"
+  },
+  "author": "Olesya Kargalskaya <o.kargalskaya@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kargalskaya/amazing-table/issues"
+  },
+  "homepage": "https://github.com/kargalskaya/amazing-table#readme",
+  "keywords": [
+    "ascii",
+    "table",
+    "console",
+    "terminal",
+    "chalk"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "strip-ansi": "^7.1.0"
+  }
+}
